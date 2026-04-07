@@ -14,10 +14,9 @@ Scientific Project (Bomber name I know)
 # Cool Images from this library
 
 Stability analysis with test funciton- not up to date with actual model
+
 <img width="783" height="589" alt="Screenshot 2026-04-05 at 1 21 23 PM" src="https://github.com/user-attachments/assets/e8bc4fdd-9e24-4175-8685-fad14d7070dd" />
 
-Thermionic emmision IRL
-<img width="783" height="589" alt="Screenshot 2026-04-05 at 1 21 23 PM" src="https://github.com/user-attachments/assets/94185928-7488-4c7d-b52a-ccd6eb12e97d" />
-
 Taylor-Couette Flow...
+
 <img width="424" height="430" alt="Screenshot 2025-02-28 at 12 20 00 PM" src="https://github.com/user-attachments/assets/7657b887-eeea-48b0-84f6-1016cb45b417" />
